@@ -77,13 +77,6 @@ We chose the headphone industry, targeting three brands Bose, JBL and Sony. The 
     
 -   Also we have all the reviews we used to train our model under each target specified in the webpage.
 
-### Deployed model using Streamlit  
--   The Streamlit app is mostly similar to the web app. It consists of a LIVE demo of the working model.
--   The review is to be written in the Text Box provided and the model will give back the Target and aspect identified along with the sentiment with respect to the Target-Aspect pair.
--   The model Home page explains about the data preparation, modelling and experiments.
--   Also there is a Dataset section which has sample dataset used for each target during training.
-
-
 ## Conclusion
 We were able to build a model that could classify headphone reviews into target-aspect pairs and give the sentiment of the review with high accuracy using DistilBERT. In the process of building the final project, we learnt about the basics of Machine Learning, Neural Networks, did some Kaggle tasks and learnt about fine-tuning BERT.
 
