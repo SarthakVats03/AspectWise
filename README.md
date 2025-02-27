@@ -5,18 +5,6 @@
 - Abhin B
 - Chinmaya Sahu
 
-### Members
-
--  Abhishek Srinivas
-    
--  Adarsh Ranjan
-    
- - Alen Basil
-    
-- Hitha Reddy
-    
-- Vishal Kamath
-
 ## Aim
 
 -   To make the targeted aspect based sentiment analysis (TABSA) system.
